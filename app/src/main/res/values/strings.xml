@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SaveReadApp</string>
+    <string name="save">Save</string>
+    <string name="read">Read</string>
+    <string name="show_fileslist">Показать список файлов</string>
+</resources>
